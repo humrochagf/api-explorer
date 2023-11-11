@@ -1,0 +1,16 @@
+*.egg
+*.egg-info
+*.env
+*.py[oc]
+.DS_Store
+.coverage
+.env
+.hatch/
+.mypy_cache/
+.ruff_cache/
+.venv/
+.vscode
+/media/
+/node_modules/
+/static/
+venv/
