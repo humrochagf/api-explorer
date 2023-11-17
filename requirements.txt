@@ -1,0 +1,5 @@
+anyio
+httpx
+pydantic
+pydantic-settings
+rich
